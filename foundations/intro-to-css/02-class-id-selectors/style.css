@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.oddNum {
+    background-color: rgb(226, 140, 140);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddNum.Three {
+    font-size: 24px;
+}
+
+#evenNum2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#evenNum4 {
+    background-color: rgb(123, 214, 111);
+    font-size: 24px;
+    font-weight: bold;
+}
+
